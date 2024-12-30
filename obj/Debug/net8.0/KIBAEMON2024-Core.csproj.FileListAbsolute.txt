@@ -19,6 +19,7 @@ F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\KIBAEMON2024-Co
 F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\KIBAEMON2024-Core.AssemblyInfoInputs.cache
 F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\KIBAEMON2024-Core.AssemblyInfo.cs
 F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\KIBAEMON2024-Core.csproj.CoreCompileInputs.cache
+F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\KIBAEMON2024-Core.sourcelink.json
 F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\KIBAEMON2024-Core.dll
 F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\refint\KIBAEMON2024-Core.dll
 F:\OtherProjects\KIBAEMON2024\KIBAEMON2024-Core\obj\Debug\net8.0\KIBAEMON2024-Core.pdb

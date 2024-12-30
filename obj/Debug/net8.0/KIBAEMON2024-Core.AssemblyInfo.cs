@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KIBAEMON2024-Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84abc13dcc3e3295723e6b468d224a65d5904d96")]
 [assembly: System.Reflection.AssemblyProductAttribute("KIBAEMON2024-Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KIBAEMON2024-Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
