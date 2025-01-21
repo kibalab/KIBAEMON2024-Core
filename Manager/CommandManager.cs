@@ -1,8 +1,7 @@
 ﻿using System.Reflection;
-using KIBAEMON2024_Core;
 using KIBAEMON2024_Core.Struct;
 
-namespace KIBAEMON2024_CSharp.System;
+namespace KIBAEMON2024_Core.Manager;
 
 public class CommandManager
 {

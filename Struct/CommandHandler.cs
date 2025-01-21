@@ -1,6 +1,6 @@
 ﻿using Discord.Commands;
 using Discord.WebSocket;
-using KIBAEMON2024_CSharp.System;
+using KIBAEMON2024_Core.Manager;
 
 namespace KIBAEMON2024_Core.Struct;
 

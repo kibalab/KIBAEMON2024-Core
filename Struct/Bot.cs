@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using Discord;
 using Discord.WebSocket;
-using KIBAEMON2024_CSharp.System;
+using KIBAEMON2024_Core.Manager;
 using Newtonsoft.Json;
 
 namespace KIBAEMON2024_Core.Struct;
